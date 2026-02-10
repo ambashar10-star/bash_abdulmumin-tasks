@@ -3,7 +3,7 @@
         <h1>Exercise 1: Getting Started with PHP - Bashar</h1>
 
         <?php
-        $string1 = "David";
+        $string1 = "Bashar Abdul Mumin";
         echo "<h3>Hello world! My name is \"$string1\"</h3>";
 
         $title = "PHP is interesting.";
